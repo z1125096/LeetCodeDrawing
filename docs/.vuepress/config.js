@@ -1,6 +1,7 @@
 const algorithmArr = [
   "",
   "record",
+  "coding",
   "1",
   "2",
   "3",
