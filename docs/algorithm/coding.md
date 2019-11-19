@@ -2,6 +2,12 @@
 
 组织刷题有一段时间了，但是很多经典的题很难留存下来，同时也没有很好的地方存储大家的 code，于是就有了这个想法，和大家一起 coding，一起 thinking。
 
+## 准备
+
+1. 点击链接加入团队，https://mawen.coding.net/invite?key=7766ff3475bf7ceece61
+2. 在算法群中艾特 天天一道算法客服(aa865428468) ，他会把你拉到刷题的仓库
+3. 刷题的仓库为：https://mawen.coding.net/p/leetcode/d/leetcode/git
+
 ## 步骤
 
 1. 克隆当前项目到自己本地，在 src 下面创建自己 coding ID 的文件目录，不熟悉 Git 的可以参考视频[1小时玩转 Git/Github](https://b23.tv/av55780016/p1)
