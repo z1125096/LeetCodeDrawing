@@ -12,5 +12,5 @@ features:
   details: 阅读Java源代码，分享Java相关知识，获取后台研发能力。
 - title: 开源分享与工具
   details: 分享当下流行的开源项目，读书笔记和优质文章。
-footer: MIT Licensed | Copyright © 2018-present Aaron Guan
+footer: MIT Licensed | Copyright © 2019-present Aaron Guan
 ---
