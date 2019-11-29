@@ -1,7 +1,7 @@
 
-今日题号：342
+今日题号：375
 
-题目链接：https://leetcode-cn.com/problems/power-of-four/
+题目链接：https://leetcode-cn.com/problems/guess-number-higher-or-lower-ii/
 
 一起刷题：请参考 https://draw.mdnice.com/algorithm/coding.html
 
@@ -11,7 +11,7 @@
 
 ## 准备
 
-1. 点击[链接](https://mawen.coding.net/invite?key=f41433f455ef1599e1d4)加入团队
+1. 点击[链接](https://mawen.coding.net/invite?key=fd4d14505a1cc8cb623f)加入团队
 2. 在算法群中艾特 天天一道算法客服(aa865428468) ，他会把你拉到刷题的仓库
 3. 刷题的仓库请点击[链接](https://mawen.coding.net/p/leetcode/d/leetcode/git)
 
