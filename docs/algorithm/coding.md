@@ -1,4 +1,9 @@
-题目
+
+今日题号：1168
+
+题目链接：https://leetcode-cn.com/problems/duplicate-zeros/
+
+一起刷题：请参考 https://draw.mdnice.com/algorithm/coding.html
 
 ## 愿景
 
@@ -6,9 +11,9 @@
 
 ## 准备
 
-1. 点击链接加入团队，https://mawen.coding.net/invite?key=7766ff3475bf7ceece61
+1. 点击[链接](https://mawen.coding.net/invite?key=c4b713ca355d89a228d3)加入团队
 2. 在算法群中艾特 天天一道算法客服(aa865428468) ，他会把你拉到刷题的仓库
-3. 刷题的仓库为：https://mawen.coding.net/p/leetcode/d/leetcode/git
+3. 刷题的仓库请点击[链接](https://mawen.coding.net/p/leetcode/d/leetcode/git)
 
 ## 步骤
 
@@ -26,4 +31,3 @@ src
   |-- codedrinker
       |-- LongestPalindromicSubstring.java
 ```
-
