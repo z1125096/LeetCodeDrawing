@@ -1,7 +1,7 @@
 
-今日题号：718
+今日题号：1397
 
-题目链接：https://leetcode-cn.com/problems/maximum-length-of-repeated-subarray/
+题目链接：[https://leetcode-cn.com/problems/search-suggestions-system/](https://leetcode-cn.com/problems/search-suggestions-system/)
 
 一起刷题：请参考 https://draw.mdnice.com/algorithm/coding.html
 
@@ -11,7 +11,7 @@
 
 ## 准备
 
-1. 点击[链接](https://mawen.coding.net/invite?key=784e7899a5e57c770d84)加入团队
+1. 点击[链接](https://mawen.coding.net/invite?key=4b579401f3c23acfc56f)加入团队
 2. 在算法群中艾特 天天一道算法客服(aa865428468) ，他会把你拉到刷题的仓库
 3. 刷题的仓库请点击[链接](https://mawen.coding.net/p/leetcode/d/leetcode/git)
 
