@@ -1,7 +1,7 @@
 
-今日题号：659
+今日题号：1169
 
-题目链接：https://leetcode-cn.com/problems/split-array-into-consecutive-subsequences/
+题目链接：https://leetcode-cn.com/problems/invalid-transactions/
 
 一起刷题：请参考 https://draw.mdnice.com/algorithm/coding.html
 
