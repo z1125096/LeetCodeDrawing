@@ -1,7 +1,7 @@
 
-今日题号：1169
+今日题号：834
 
-题目链接：https://leetcode-cn.com/problems/invalid-transactions/
+题目链接：https://leetcode-cn.com/problems/sum-of-distances-in-tree/
 
 一起刷题：请参考 https://draw.mdnice.com/algorithm/coding.html
 
