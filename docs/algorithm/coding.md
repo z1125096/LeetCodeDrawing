@@ -1,7 +1,7 @@
 
-今日题号：593
+今日题号：513
 
-题目链接：https://leetcode-cn.com/problems/valid-square/
+题目链接：https://leetcode-cn.com/problems/find-bottom-left-tree-value/
 
 一起刷题：请参考 https://draw.mdnice.com/algorithm/coding.html
 
