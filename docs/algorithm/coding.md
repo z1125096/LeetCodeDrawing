@@ -1,7 +1,7 @@
 
-今日题号：513
+今日题号：693
 
-题目链接：https://leetcode-cn.com/problems/find-bottom-left-tree-value/
+题目链接：https://leetcode-cn.com/problems/binary-number-with-alternating-bits/
 
 一起刷题：请参考 https://draw.mdnice.com/algorithm/coding.html
 
