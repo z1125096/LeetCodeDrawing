@@ -1,7 +1,7 @@
 
-今日题号：423
+今日题号：268
 
-题目链接：https://leetcode-cn.com/problems/reconstruct-original-digits-from-english/
+题目链接：https://leetcode-cn.com/problems/missing-number/
 
 一起刷题：请参考 https://draw.mdnice.com/algorithm/coding.html
 
@@ -11,7 +11,7 @@
 
 ## 准备
 
-1. 点击[链接](https://mawen.coding.net/invite?key=2385e7d9614731ca98e1)加入团队
+1. 点击[链接](https://mawen.coding.net/invite?key=8161bfde7ac825d71bcd)加入团队
 2. 在算法群中艾特 天天一道算法客服(aa865428468) ，他会把你拉到刷题的仓库
 3. 刷题的仓库请点击[链接](https://mawen.coding.net/p/leetcode/d/leetcode/git)
 
