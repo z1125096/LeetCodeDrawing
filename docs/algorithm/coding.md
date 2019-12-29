@@ -1,7 +1,7 @@
 
-今日题号：1035
+今日题号：967
 
-题目链接：https://leetcode-cn.com/problems/uncrossed-lines/
+题目链接：https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences/
 
 一起刷题：请参考 https://draw.mdnice.com/algorithm/coding.html
 
