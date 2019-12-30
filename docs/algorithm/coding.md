@@ -1,7 +1,7 @@
 
-今日题号：967
+今日题号：1128
 
-题目链接：https://leetcode-cn.com/problems/numbers-with-same-consecutive-differences/
+题目链接：https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs/
 
 一起刷题：请参考 https://draw.mdnice.com/algorithm/coding.html
 
