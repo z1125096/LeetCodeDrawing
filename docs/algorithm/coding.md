@@ -1,7 +1,7 @@
 
-今日题号：1128
+今日题号：331
 
-题目链接：https://leetcode-cn.com/problems/number-of-equivalent-domino-pairs/
+题目链接：https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/
 
 一起刷题：请参考 https://draw.mdnice.com/algorithm/coding.html
 
