@@ -1,7 +1,7 @@
 
-今日题号：331
+今日题号：934
 
-题目链接：https://leetcode-cn.com/problems/verify-preorder-serialization-of-a-binary-tree/
+题目链接：https://leetcode-cn.com/problems/shortest-bridge/
 
 一起刷题：请参考 https://draw.mdnice.com/algorithm/coding.html
 
