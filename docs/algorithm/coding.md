@@ -1,7 +1,7 @@
 
-今日题号：696
+今日题号：984
 
-题目链接：https://leetcode-cn.com/problems/count-binary-substrings/
+题目链接：https://leetcode-cn.com/problems/string-without-aaa-or-bbb/
 
 一起刷题：请参考 https://draw.mdnice.com/algorithm/coding.html
 
