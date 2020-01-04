@@ -1,7 +1,7 @@
 
-今日题号：984
+今日题号：838
 
-题目链接：https://leetcode-cn.com/problems/string-without-aaa-or-bbb/
+题目链接：https://leetcode-cn.com/problems/push-dominoes/
 
 一起刷题：请参考 https://draw.mdnice.com/algorithm/coding.html
 
