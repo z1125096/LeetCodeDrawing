@@ -1,7 +1,7 @@
 
-今日题号：838
+今日题号：1162
 
-题目链接：https://leetcode-cn.com/problems/push-dominoes/
+题目链接：https://leetcode-cn.com/problems/as-far-from-land-as-possible/
 
 一起刷题：请参考 https://draw.mdnice.com/algorithm/coding.html
 
